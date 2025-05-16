@@ -1,0 +1,16 @@
+
+[head=1][color=#1ede35]████[color=#1d1812]█[color=#2f2820]███[color=#1d1812]█[color=#1ede35]████[/head]
+[head=1][color=#1ede35]███[color=#1d1812]█[color=#2f2820]█[color=#3b3329]█[color=#3b3229]██[color=#2f2820]█[color=#1d1812]█[color=#1ede35]███[/head]
+[head=1][color=#1ede35]███[color=#d36d55]█[color=#0e0b07]█[color=#3b3329]█[color=#3b3229]██[color=#0e0b07]█[color=#d26c55]█[color=#1ede35]███[/head]
+[head=1][color=#1ede35]███[color=#ea9667]█[color=#1d1812]█[color=#2f2820]█[color=#0e0b07]█[color=#2f2820]█[color=#1d1812]█[color=#e99667]█[color=#80705e]█[color=#1ede35]██[/head]
+[head=1][color=#1ede35]███[color=#312a22]█[color=#080604]█[color=#070504]█[color=#201914]█[color=#070504]█[color=#080604]█[color=#312a22]█[color=#80705e]█[color=#1ede35]██[/head]
+[head=1][color=#1ede35]██[color=#3b3329]█[color=#080604]█[color=#201914]█[color=#18120e]█[color=#201914]█[color=#18120e]█[color=#201914]█[color=#070504]█[color=#3b3229]█[color=#1ede35]██[/head]
+[head=1][color=#1ede35]█[color=#2f2821]█[color=#fff1cf]█[color=#201914]██[color=#469f31]█[color=#0eb69a]█[color=#25c79c]█[color=#d9ccad]█[color=#0e7c69]█[color=#5a4e41]█[color=#2f2820]█[color=#1ede35]█[/head]
+[head=1][color=#1ede35]██[color=#708a7f]█[color=#1c1610]█[color=#201914]███[color=#0e7c69]█[color=#0eb59a]█[color=#7f705e]█[color=#110d09]█[color=#1ede35]██[/head]
+[head=1][color=#1ede35]█[color=#708a7f]█[color=#d36d56]█[color=#120d0a]█[color=#1c1611]█[color=#120d0a]█[color=#201914]█[color=#120d0a]█[color=#1c1611]█[color=#110d0a]█[color=#594e42]█[color=#1ede35]██[/head]
+[head=1][color=#1ede35]█[color=#d26d56]█[color=#e99769]█[color=#d26d56]█[color=#120d0a]█████[color=#1ede35]████[/head]
+[head=1][color=#1ede35]██[color=#9c8a75]█[color=#d2ba9e]█[color=#1c1611]█[color=#040302]███[color=#1b1611]█[color=#d1b99e]█[color=#412e19]█[color=#1ede35]██[/head]
+[head=1][color=#857563]█[color=#9c8a75]█[color=#e0c6a9]█[color=#f6daba]█[color=#978676]█[color=#050403]███[color=#968676]█[color=#f4d9ba]█[color=#412e19]█[color=#402e19]█[color=#847463]█[/head]
+[head=1][color=#9c8a75]█[color=#f6daba]█[color=#d2ba9e]█[color=#fff2cf]█[color=#9c8a75]█[color=#968676]█[color=#070504]█[color=#968676]█[color=#9b8975]█[color=#412e19]█[color=#d1b99e]█[color=#f3d9ba]█[color=#9a8875]█[/head]
+[head=1][color=#1ede35]█████████████[/head]
+[color=#000000]By Stephen Hirschfeld
