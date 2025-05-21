@@ -3,7 +3,7 @@
 [head=1]Tanix's Catalog of Chemistry[/head]
 Based off of Tom's Guide to Chemistry
 [color=#aaaaaa]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
-██ CHEMICAL NAME | USAGE | OVERDOSE AMOUNT
+██ CHEMICAL NAME | USAGE | OVERDOSE/USEAGE AMOUNT | CRYO/PYROGENIC TEMPERATURE | HEAT TEMPERATURE
 This document contains recipes to create full L. beakers, as well as proportions that you can scale to create as much as you want to. Proportions will be in parenthesis next to regular amounts (They may not be 100% accurate, sorry!). If there are no parenthesis, all parts are equal. Recipes are contained inside brackets []. Use this information to substitute existing ingredients to avoid waste. Existing ingredient amount to substitute are shown in parenthesis, next to the name, shown in regular amounts. If there is no parenthesis, only one of the chemical is required. "CAT" means a chemical is a catalyst, and is not consumed. Line Break indicates a step by step process, in which letters indicate seperate beakers, and the existing ingredient amount on top.
 
 [head=3]BASIC MEDICINE[/head]  [color=#e5e5e5]███████████████████████████[/color]
@@ -61,6 +61,13 @@ Remove 10 leporazine and 1 plasma from A then Mix A and B and heat.
 [color=#8147ff]██ INSUZINE | SHOCK | 12u | ▬ heat 433 K ▬[/color]
 [Kelotane: 10(1) silicon + 10(1) carbon] + [Leporazine: [Fersilicite: 5(1) silicon + 5(1) iron] + 10(2) copper + 1 CAT plasma] + 20(1) silicon
 
+[color=#aa4308]██ SIGYNATE | CAUSTIC | 15u | ▬ heat 370 K ▬[/color]
+=1 Kelotane + 1 Sodium Carbonate + 1 Sodium Hydroxide + 1 Sugar + 1 Water
+A: [10 chlorine + 10 sodium], heat. Add [15 hydrogen + 5 nitrogen + 20 carbon + 20 oxygen]
+B: [20 oxygen + 20 hydrogen + 40 sodium], heat.
+C: [40 silicon, 40 carbon]
+D: 20u of sugar, water, A, B, C, then heat.
+
 [head=3]OTHER ADVANCED MEDICATION[/head]  [color=#e5e5e5]██████████████[/color]
 
 [color=#99FFFF]██ SALBUTAMOL | AIRLOSS | 15.5u | ▬ heat 310 K ▬[/color]
@@ -81,18 +88,11 @@ Add 20 of each beaker into D, heat until mixed, pour into jug, refill D and repe
 [color=#c8ff75]██ PHALANXIMINE | GENETIC | Deals RADIATION[/color]
 [Hyronalin: [Potassium Iodide: 10(1) iodine + 10(1) potassium] + 20(2) radium] + [Unstable Mutagen: 10(1) radium + 10(1) chlorine + 10(1) phosphorus] + 30(1) ethanol
 
-[color=#aa4308]██ SIGYNATE | CAUSTIC | 15u | ▬ heat 370 K ▬[/color]
-=1 Kelotane + 1 Sodium Carbonate + 1 Sodium Hydroxide + 1 Sugar + 1 Water
-A: [10 chlorine + 10 sodium], heat. Add [15 hydrogen + 5 nitrogen + 20 carbon + 20 oxygen]
-B: [20 oxygen + 20 hydrogen + 40 sodium], heat.
-C: [40 silicon, 40 carbon]
-D: 20 of A, B, C, sugar, water and heat.
-
 [color=#404040]██ OCULINE | EYE DAMAGE | USE 5u | ▬ heat 370 K ▬[/color]
 =1 Blood + 2 Hydroxide + 1 Table Salt
-A: [20(2) hydrogen + 20(2) oxygen], heat
-B: [10(1) chlorine + 10(1) sodium], heat
-C: 20(2) blood + 40(4) hydroxide + 20(2) table salt
+A: [10(2) hydrogen + 10(2) oxygen], heat
+B: [5(1) chlorine + 5(1) sodium], heat
+C: 10(2) blood + 20(4) hydroxide + 10(2) table salt
 
 [head=3]OTHER[/head]  [color=#e5e5e5]███████████████████████████████████[/color]
 
@@ -103,7 +103,7 @@ C: 20(2) blood + 40(4) hydroxide + 20(2) table salt
 [30 hydrogen + 10 nitrogen] + 40 ethanol
 
 [color=#86CAF7]██ AMBUZOL | ZOMBIE | USE 10u[/color]
-3 hydrogen + 2 nitrogen + 1 potassium + 1 silicon + 2 zombie blood
+[3 hydrogen + 1 nitrogen] + [1 nitrogen + 1 potassium + 1 silicon] + 2 zombie blood
 
 [color=#1274B5]██ AMBUZOL PLUS | ZOMBIE | USE 5u[/color]
 5 Ambuzol + 5 Omnizine
@@ -139,8 +139,8 @@ Combine 30u of each to jug.
 
 [color=#2E2C2C]██ SORETIZONE | PAIN | 9u | ▬ heat 340 K ▬[/color]
 =1 Bicaridine + 1 Phenol + 1 iron + 1 CAT Table Salt.
-A: [[10(1) carbon + 10(1) oxygen + 10(1) sugar] + 30(3) carbon] = 30
-B: [32(4) carbon + 16(1) oxygen + 48(7) hydrogen], heat. = 64
+A: [[10(1) carbon + 10(1) oxygen + 10(1) sugar] + 30(3) carbon]
+B: [32(4) carbon + 16(1) oxygen + 48(7) hydrogen], heat.
 C: [chlorine + sodium] + 30 iron, heat.
 Remove 4 Phenol from B, 1 Table Salt from C, mix 30u A, B into C and heat. Refill C and repeat until used.
 
@@ -157,10 +157,13 @@ Remove 12u Ephedrine and add 20 carbon + 20 iodine + 20 phosphorous + 20 stellib
 
 [head=3]CRYOGENIC CHEMICALS[/head]  [color=#e5e5e5]█████████████████████[/color]
 
-[color=#0091ff]██ CRYOXADONE | ALL | 213 K[/color]
+[color=#0091ff]██ CRYOXADONE | AIR+BLOOD | 213 K[/color]
 =1 Dexalin + 1 water + 1 oxygen
 1 plasma + 20 oxygen + 30 water
 remove plasma and add 30 oxygen
+
+[color=#89F77F]██ ALOXADONE | BURNS | 213 K[/color]
+30(2) aloe + 15(1) Cryoxadone + 30(2) Sigynate
 
 [color=#86a5bd]██ NECROSOL | HEALS CORPSES | 213 K | ▬ heat 370 K ▬[/color]
 45(3) blood + 30(2) Cryoxadone + 15(1) omnizine
