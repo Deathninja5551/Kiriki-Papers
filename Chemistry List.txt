@@ -162,24 +162,20 @@ Remove 12u Ephedrine and add 20 carbon + 20 iodine + 20 phosphorous + 20 stellib
 1 plasma + 20 oxygen + 30 water
 remove plasma and add 30 oxygen
 
+[color=#880077]██ TRAUMOXADONE | BRUTE | 213 K[/color]
+1 cryoxadone + 1 bicaridine + 1 [fersilicite: 1 iron + 1 silicon] + 1 [lipozine: [table salt(heat): 1 chlorine + 1 sodium] + 1 ethanol + 1 radium]
+
 [color=#89F77F]██ ALOXADONE | BURNS | 213 K[/color]
-30(2) aloe + 15(1) Cryoxadone + 30(2) Sigynate
+2 cryoxadone + 2 leporazine + 1 aloe
 
 [color=#86a5bd]██ NECROSOL | HEALS CORPSES | 213 K | ▬ heat 370 K ▬[/color]
-45(3) blood + 30(2) Cryoxadone + 15(1) omnizine
+3 blood + 2 Cryoxadone + 1 omnizine
 
 [color=#32CD32]██ DOXARUBIXADONE | GENETIC | 213 K[/color]
-45(3) cryoxadone + 45(3) [unstable mutagen: 15(1) chlorine + 15(1) phosphorus + 15(1) radium]
+3 cryoxadone + 3 [unstable mutagen: 1 chlorine + 1 phosphorus + 1 radium]
 
 [color=#E3D56D]██ NETINADONE | ROT | 150 K | ▬ heat 400 K ▬[/color]
-=1 Doxarubixadone + 2 Plasma + 1 Traumoxadone
-A: 30 Cryoxadone + [10 radium + 10 chlorine + 10 phosphorus]
-B: 30 Cryoxadone + [5 chlorine + 5 sodium] + 10 ethanol + 10 radium, heat.
-C: [5 hydrogen + 10 oxygen + 5 sulfur] +  [10 carbon + 15 hydrogen + 5 oxygen] + 15 bicaridine + 15 carbon
-Remove 5 phenol from C.
-D: Mix B and C, remove Salicylic acid
-C: 20 A, B. 40 plasma, heat.
-Repeat B and mix with leftover Salicylic acid until gone
+1 Doxarubixadone + 1 Traumoxadone + 2 Plasma
 
 [color=#B5E36D]██ OPPOROZIDONE | ROT | 150 K | ▬ heat 400 K ▬[/color]
-24(6) Cognizine + [Doxarubixadone: 12(3) Cryoxadone + [Unstable Mutagen: 4(1) radium + 4(1) chlorine + 4(1) phosphorus]] + 48(12) plasma
+1 cognizine + 1 doxarubixadone + 2 plasma
