@@ -144,7 +144,7 @@ B: [32(4) carbon + 16(1) oxygen + 48(7) hydrogen], heat.
 C: [chlorine + sodium] + 30 iron, heat.
 Remove 4 Phenol from B, 1 Table Salt from C, mix 30u A, B into C and heat. Refill C and repeat until used.
 
-[color=#B0ABAA]██ DIPHENYLMETHYLAMINE | NARCOLEPSY | USE 5u | heat 370 K[/color]
+[color=#B0ABAA]██DIPHENYLMETHYLAMINE|NARCOLEPSY|USE 5u|heat 370K[/color]
 =1 Ethyloxyephedrine (1 Desoxyephedrine(=1 carbon + 1 Ephedrine + 1 Iodine + 1 Phosphorus) + 1 Stellibinin) + 1 coffee + 1 sodium carbonate (=1 ammonia, 1 carbon, 1 oxygen, 1 table salt)
 A: [[3 hydrogen + nitrogen] + 4 ethanol] + [2 carbon + 2 hydrogen + 2 welding fuel] + 8 hydrogen + 8 sugar
 Remove 22u Ephedrine and add 10 carbon + 10 iodine + 10 phosphorous + 40 stellibinin, heat.
