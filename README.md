@@ -1,6 +1,6 @@
 # My Papers for SS14
 
-**This repo hosts papers personally given to or made by me, also known as Heir-Topith (Talon).**
+**This repo hosts papers personally given to or made by me, also known as Heir-Topith (Talon) or Kiriki.**
 
 NOTE:
 The `# text label` seen at the top of every file is a Document Label, it will automatically label the document when the document is printed via a fax machine.
