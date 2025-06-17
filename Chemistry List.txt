@@ -171,6 +171,9 @@ remove plasma and add 30 oxygen
 [color=#89F77F]██ ALOXADONE | BURNS | 213 K[/color]
 2 cryoxadone + 2 leporazine + 1 aloe
 
+[color=#FFC683]██ STELLOXADONE | TOXINS | 213 K[/color]
+5 stellibinin, 3 cryoxadone, 2 arithrazine
+
 [color=#86a5bd]██ NECROSOL | HEALS CORPSES | 213 K | ▬ heat 370 K ▬[/color]
 3 blood + 2 Cryoxadone + 1 omnizine
 
