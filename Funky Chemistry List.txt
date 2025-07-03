@@ -1,0 +1,162 @@
+# Tanix's Catalog of Chemistry
+[color=#aaaaaa]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[head=1]Tanix's Catalog of Chemistry[/head]
+Based off of Tom's Guide to Chemistry
+[color=#aaaaaa]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+██ CHEMICAL NAME | USAGE | OVERDOSE/USEAGE AMOUNT | SIDE EFFECTS | CRYO/PYROGENIC TEMPERATURE | HEAT TEMPERATURE
+This document contains recipes to create full L. beakers, as well as proportions that you can scale to create as much as you want to. Proportions will be in parenthesis next to regular amounts (They may not be 100% accurate, sorry!). If there are no parenthesis, all parts are equal. Recipes are contained inside brackets []. Use this information to substitute existing ingredients to avoid waste. Existing ingredient amount to substitute are shown in parenthesis, next to the name, shown in regular amounts. If there is no parenthesis, only one of the chemical is required. "CAT" means a chemical is a catalyst, and is not consumed. Line Break indicates a step by step process, in which letters indicate seperate beakers, and the existing ingredient amount on top.
+
+[head=3]BASIC MEDICINE[/head]  [color=#e5e5e5]███████████████████████████[/color]
+
+[color=#e8d199]██ LIBITAL | BRUTE | 20u[/color]
+[20(1) oil: 5(1) welding fuel + 5(1) hydrogen + 5(1) carbon] + 20(1) nitrogen + 20(1) oxygen
+
+[color=#e8e699]██ PROBITAL | BRUTE | 20u | CAUSES SLOWNESS[/color]
+[24(12) acetone: [8(4) oil: [2(1) carbon + 2(1) hydrogen + 2(1) welding fuel]] + 8(4) oxygen + 8(4) welding fuel] + 24(12) copper + 24(12) phosphorus
+
+[color=#a69ff4]██ AIURI | BURNS | 20u[/color]
+20(1) welding fuel + [20(1) ammonia: 15(3) hydrogen + 5(1) nitrogen] + 20(1) hydrogen
+
+[color=#634aef]██ LENTURI | BURNS | 20u | DEHYDRATES[/color]
+[30(1) sulfuric acid: 10(1) hydrogen + 10(1) sulfur + 20(2) oxygen]  + 30(1) chlorine + 30(1) oxygen
+
+[color=#634aef]██ MULTIVER | POISON | 20u | ▬ heat 370 K ▬[/color]
+[20(1) table salt: 10(1) sodium + 10(1) chlorine] + [20(1) oil: [5(1) carbon + 5(1) hydrogen + 5(1) welding fuel] + 20(1) silicon
+
+[color=#22282b]██ CHARCOAL | PRG BLOODSTRM | ▬ heat 520 K ▬[/color]
+40(1) carbon + [40(1) ash: 40 oil(1): 10(1) welding fuel + 10(1) hydrogen + 10(1) carbon]
+
+[color=#0041a8]██ DEXALIN | AIRLOSS | 20u[/color]
+CAT 1 plasma + 60 oxygen
+
+[color=#0064C8]██ SALINE | BLOODLOSS | ▬ heat 370 K ▬[/color]
+[table salt(2): 10(1) chlorine + 10(1) sodium] + 80(8) water
+
+[color=#c7e4e8]██ GRANIBITULARI | ALL | ▬ heat 370 K ▬[/color]
+[30(1) table salt: 15(1) sodium + 15(1) chlorine] + 30(1) carbon + 30(1) potassium
+
+[color=#c05c04]██ ARITHRAZINE | RADIATION | Deals BRUTE[/color]
+[Hyronalin(3): [Potassium Iodide(2): 10(1) iodine + 10(1) potassium] + 20(1) radium] + 40(3) hydrogen
+
+[color=#f4dab8]██ SIDERLAC | CAUSTIC | USE 5u[/color]
+50(1) aloe + 50(1) stellibinin
+
+[head=3]ADVANCED MEDICINE[/head]  [color=#e5e5e5]██████████████████████[/color]
+
+[color=#f4dab8]██ SALICYLIC ACID | BRUTE>30 | 15.5u | ▬ heat 310 K ▬[/color]
+=1 Phenol, 1 Probital, 1 Sulfuric Acid, 1 Carbon
+[20(1) phenol: [10(1) hydroxide: 5(1) oxygen + 5(1) hydrogen] + [10(1) benzene: 10(1) hydrogen + 10(1) carbon]] + 20(1) probital + 30(1) sulfuric acid[20(2) oxygen + 10(1) hydrogen + 10(1) sulfur] + 20(1) carbon
+remove 10 sulfuric acid to purify
+
+[color=#e6e600]██ OXANDROLONE | BURN>30 | 15.5u[/color]
+=2 Carbon, 1 Phenol, 1 Lenturi
+[30(1) lenturi: [(1) sulfuric acid: 5(1) hydrogen + 5(1) sulfur + 10(2) oxygen]  + 15(1) chlorine + 15(1) oxygen] [bold]- 30[/bold] + 30(2) Carbon + 15(1) phenol[(1) hydroxide + (1) benzene]
+
+[color=#e6e600]██ PENTETIC ACID | POISON+BLOODSTRM | 15.5u[/color]
+=1 Multiver, 1 Silicon, 1 Oil, 1 Plasma, 1 Ethanol
+A: [10 welding fuel + 10 hydrogen + 10 carbon]
+B: [5 sodium + 5 chlorine], heat. add 10 silicon + 10u of A
+C: 20 silicon, 20 ethanol, 20 plasma, 20u of A, 20u of B
+use leftover oil/multiver with recipe until gone
+
+[color=#99FFFF]██ SALBUTAMOL | AIRLOSS | 15.5u | ▬ heat 310 K ▬[/color]
+=1 Dexalin, 1 Inaprovaline, 1 Phenol, 1 Lithium
+A: put [10 carbon + 15 hydrogen + 5 oxygen] and heat (leave on oven)
+B: [5 oxygen + 5 sugar + 5 carbon]
+C: [[1 plasma + 10 oxygen] + 15 lithium]
+Remove 1 plasma from C, and pour into A. Pour B into A. Remove 5 Phenol from mix.
+
+[color=#e0a5b9]██ SIGYNATE | CAUSTIC | 15u | ▬ heat 370 K ▬[/color]
+=1 sodium carbonate + 1 sodium hydroxide + 1 lenturi + 1 sugar + 1 water
+A: [10 chlorine + 10 sodium], heat. Add [15 hydrogen + 5 nitrogen + 20 carbon + 20 oxygen]
+B: [20 oxygen + 20 hydrogen + 40 sodium], heat.
+C: [30(1) sulfuric acid: 10(1) hydrogen + 10(1) sulfur + 20(2) oxygen]  + 30(1) chlorine + 30(1) oxygen
+D: 20u of sugar, water, A, B, C, then heat. repeat until used
+
+[color=#404040]██ OCULINE | EYE DMG | USE 5u | ▬ heat 370 K ▬[/color]
+=1 Blood + 2 Hydroxide + 1 Table Salt
+A: [10(2) hydrogen + 10(2) oxygen], heat
+B: [5(1) chlorine + 5(1) sodium], heat
+C: 10(2) blood + 20(4) hydroxide + 10(2) table salt
+
+[color=#86CAF7]██ AMBUZOL | ZOMBIE | USE 10u[/color]
+[4(1) ammonia: 3 hydrogen + 1 nitrogen] + [4(1) multiver: [4(1) table salt: 2(1) sodium + 2(1) chlorine] + [4(1) oil: 1 carbon + 1 hydrogen + 1 welding fuel] + 4(1) silicon] + 4 zombie blood
+
+[color=#1274B5]██ AMBUZOL PLUS | ZOMBIE | USE 5u[/color]
+5 ambuzol + 5 plasma + 1 necrosol
+
+[head=3]OTHER[/head]  [color=#e5e5e5]███████████████████████████████████[/color]
+
+[color=#2d5708]██ ETHYLREDOXRAZINE | ANTI-ALCOHOL[/color]
+8(1) carbon + [8(1) multiver: 8(1) table salt: 4(1) sodium + 4(1) chlorine] + [8(1) oil: [2(1) carbon + 2(1) hydrogen + 2(1) welding fuel] + 8(1) silicon + 8(1) oxygen
+
+[color=#27870a]██ HALOPERIDOL | ANTI-DRUG[/color]
+4 aluminium + 4 chlorine + 4 fluorine + [4(1) oil: 1 welding fuel + 1 hydrogen + 1 carbon] + [4 potassium iodide: 2(1) iodine + 2(1) potassium]
+
+[color=#b0abaa]██DIPHENYLMETHYLAMINE|NARCOLEPSY|USE 5u|heat 370K[/color]
+=1 Ethyloxyephedrine (1 Desoxyephedrine(=1 carbon + 1 Ephedrine + 1 Iodine + 1 Phosphorus) + 1 Stellibinin) + 1 coffee + 1 sodium carbonate (=1 ammonia, 1 carbon, 1 oxygen, 1 table salt)
+A: [[3 hydrogen + nitrogen] + 4 ethanol] + [2 carbon + 2 hydrogen + 2 welding fuel] + 8 hydrogen + 8 sugar
+Remove 22u Ephedrine and add 10 carbon + 10 iodine + 10 phosphorous + 40 stellibinin, heat.
+B: [15 hydrogen + 5 nitrogen] + [10 chlorine + 10 sodium] + 20 carbon + 20 oxygen, heat.
+C: 80u coffee
+Combine 30u from each. Repeat until used.
+
+[color=#382f6b]██ NEUROZENIUM | DEPRESSION | 15.1u | 10u/PILL[/color]
+CAT 1 Bleach + [24(12) acetone: [8(4) oil: [2(1) carbon + 2(1) hydrogen + 2(1) welding fuel]] + 8(4) oxygen + 8(4) welding fuel] + 12 Mercury + 12 Copper
+
+[color=#634e3a]██ CALMAFLUXINE | ANXIETY | 10u/PILL | ▬ heat 325 K ▬[/color]
+=1 Inaprovaline + 1 Phenol + 1 Potassium
+A: 20(4) oxygen + 20(4) sugar + 20(4) carbon
+B: 30(6) carbon + 45(9) hydrogen + 15(3) oxygen, heat.
+C: 60(12) potassium
+Combine 30u of each to jug.
+
+[color=#2E2C2C]██ SORETIZONE | PAIN | 9u | 9u/PILL | ▬ heat 340 K ▬[/color]
+=1 Libital + 1 Phenol + 1 iron + 1 CAT Table Salt.
+A: [20(1) oil: 5(1) welding fuel + 5(1) hydrogen + 5(1) carbon] + 20(1) nitrogen + 20(1) oxygen
+B: [32(4) carbon + 16(1) oxygen + 48(7) hydrogen], heat.
+C: [chlorine + sodium] + 30 iron, heat.
+Remove 4 Phenol from B, 1 Table Salt from C, mix 30u A, B into C and heat. Refill C and repeat until used.
+
+[color=#b50ee8]██ COGNIZINE | SENTIENCE | USE 5u[/color]
+[Acetone: [Oil: [1 carbon + 1 hydrogen + 1 welding fuel]] + 4 oxygen + 4 welding fuel] + [Siderlac: 6(1) aloe + 6(1) stellibinin] + 12(1) carpotoxin
+
+[color=#77b58e]██ AMMONIA[/color]
+60(3) hydrogen + 20(1) nitrogen
+
+[color=#00ff5f]██ UNSTABLE MUTAGEN[/color]
+30 chlorine + 30 phosphorous + 30 radium
+
+[color=#a1000b]██ DIETHYLAMINE[/color]
+[30(3) hydrogen + 10(1) nitrogen] + 40(1) ethanol
+
+[color=#664330]██ EZ NUTRIENT[/color]
+30 nitrogen + 30 phosphorus + 30 potassium
+
+[color=#3e901c]██ ROBUST HARVEST[/color]
+[30(1) sulfuric acid: 10(1) hydrogen + 10(1) sulfur + 20(2) oxygen] + 30(1) EZ nutrient
+
+[color=#c8ff69]██ SPACE CLEANER[/color]
+[30(3) hydrogen + 10(1) nitrogen] + 40(4) water
+
+[color=#a1000b]██ BLEACH | ▬ heat 370 K ▬[/color]
+[10(2) table salt: 5(1) sodium + 5(1) chlorine] + 10(2) space cleaner + [10(1) sodium hydroxide: 5(1) hydrogen + 5(1) oxygen]
+
+[head=3]CRYOGENIC CHEMICALS[/head]  [color=#e5e5e5]█████████████████████[/color]
+
+[color=#0091ff]██ CRYOXADONE | AIR+BLOOD | 213 K[/color]
+=1 Dexalin + 1 water + 1 oxygen
+1 plasma + 20 oxygen + 30 water
+remove plasma and add 30 oxygen
+
+[color=#880077]██ TRAUMOXADONE | BRUTE | 213 K[/color]
+1 cryoxadone + 1 salicylic acid + 1 [lipozine: [table salt(heat): 1 chlorine + 1 sodium] + 1 ethanol + 1 radium]
+
+[color=#89F77F]██ ALOXADONE | BURNS | 213 K[/color]
+2 cryoxadone + 2 sigynate + 1 aloe
+
+[color=#ffa861]██ STELLOXADONE | TOXINS | 213 K[/color]
+5 stellibinin, 3 cryoxadone, 2 arithrazine
+
+[color=#32CD32]██ DOXARUBIXADONE | GENETIC | 213 K[/color]
+45(1) cryoxadone + [45(1) phalanximine: [20(1) Hyronalin: [Potassium Iodide: 5(1) iodine + 5(1) potassium] + 10(2) radium] + [15(1) Unstable Mutagen: 5(1) radium + 5(1) chlorine + 5(1) phosphorus] + 15(1) ethanol
