@@ -43,7 +43,7 @@ CAT 1 plasma + 60 oxygen
 
 [head=3]ADVANCED MEDICINE[/head]  [color=#e5e5e5]██████████████████████[/color]
 
-[color=#f4dab8]██ SALICYLIC ACID | BRUTE>30 | 15.5u | ▬ heat 310 K ▬[/color]
+[color=#f9e0e9]██ SALICYLIC ACID | BRUTE>30 | 15.5u | ▬ heat 310 K ▬[/color]
 =1 Phenol, 1 Probital, 1 Sulfuric Acid, 1 Carbon
 [20(1) phenol: [10(1) hydroxide: 5(1) oxygen + 5(1) hydrogen] + [10(1) benzene: 10(1) hydrogen + 10(1) carbon]] + 20(1) probital + 30(1) sulfuric acid[20(2) oxygen + 10(1) hydrogen + 10(1) sulfur] + 20(1) carbon
 remove 10 sulfuric acid to purify
@@ -52,7 +52,7 @@ remove 10 sulfuric acid to purify
 =2 Carbon, 1 Phenol, 1 Lenturi
 [30(1) lenturi: [(1) sulfuric acid: 5(1) hydrogen + 5(1) sulfur + 10(2) oxygen]  + 15(1) chlorine + 15(1) oxygen] [bold]- 30[/bold] + 30(2) Carbon + 15(1) phenol[(1) hydroxide + (1) benzene]
 
-[color=#e6e600]██ PENTETIC ACID | POISON+BLOODSTRM | 15.5u[/color]
+[color=#3a0c28]██ PENTETIC ACID | POISON+BLOODSTRM | 15.5u[/color]
 =1 Multiver, 1 Silicon, 1 Oil, 1 Plasma, 1 Ethanol
 A: [10 welding fuel + 10 hydrogen + 10 carbon]
 B: [5 sodium + 5 chlorine], heat. add 10 silicon + 10u of A
