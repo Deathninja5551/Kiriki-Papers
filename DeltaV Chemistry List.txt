@@ -9,13 +9,13 @@ This document contains recipes to create full L. beakers, as well as proportions
 [head=3]BASIC MEDICINE[/head]  [color=#e5e5e5]███████████████████████████[/color]
 
 [color=#ffaa00]██ BICARIDINE | BRUTE | 15u[/color]
-[Inaprovaline(3): 15(1) oxygen + 15(1) sugar + 15(1) carbon] + 45(3) carbon
+[45 Inaprovaline(3): 15(1) oxygen + 15(1) sugar + 15(1) carbon] + 45(3) carbon
 
 [color=#BF3D19]██ KELOTANE | BURNS[/color]
 50(1) silicon + 50(1) carbon
 
 [color=#215263]██ DERMALINE | BURNS | 10u[/color]
-[Kelotane(2): 15(1) silicon + 15(1) carbon] + 30(2) oxygen + 30(2) phosphorus
+[30(2) Kelotane: 15(1) silicon + 15(1) carbon] + 30(2) oxygen + 30(2) phosphorus
 
 [color=#3a1d8a]██ DYLOVENE | POISON | 20u[/color]
 30(1) silicon + 30(1) nitrogen + 30(1) potassium
@@ -24,13 +24,13 @@ This document contains recipes to create full L. beakers, as well as proportions
 CAT 1 plasma + 60 oxygen
 
 [color=#0064C8]██ SALINE | BLOODLOSS | ▬ heat 370 K ▬[/color]
-[Table Salt(2): 10(1) chlorine + 10(1) sodium] + 80(8) water
+[20(2) Table Salt: 10(1) chlorine + 10(1) sodium] + 80(8) water
 
 [color=#00e5ff]██ TRICORDRAZINE | ALL BASIC(<50u)[/color]
-[Inaprovaline(3): 15(1) oxygen + 15(1) sugar + 15(1) carbon] + [Dylovene(3): 15(1) silicon + 15(1) potassium + 15(1) nitrogen]
+[15(3) Inaprovaline: 15(1) oxygen + 15(1) sugar + 15(1) carbon] + [15(3) Dylovene: 15(1) silicon + 15(1) potassium + 15(1) nitrogen]
 
 [color=#bd5902]██ ARITHRAZINE | RADIATION | Deals BRUTE[/color]
-[Hyronalin(3): [Potassium Iodide(2): 10(1) iodine + 10(1) potassium] + 20(1) radium] + 40(3) hydrogen
+[40(3) Hyronalin: [Potassium Iodide(2): 10(1) iodine + 10(1) potassium] + 20(1) radium] + 40(3) hydrogen
 
 [color=#f4dab8]██ SIDERLAC | CAUSTIC[/color]
 50(1) aloe + 50(1) stellibinin
@@ -38,18 +38,18 @@ CAT 1 plasma + 60 oxygen
 [head=3]ADVANCED BRUTE MEDICATION[/head]  [color=#e5e5e5]██████████████[/color]
 
 [color=#ff3636]██ BRUIZINE | BLUNT | 10u[/color]
-[Bicaridine: [Inaprovaline(3): 5(1) oxygen + 5(1) sugar + 5(1) carbon] + 15(3) carbon] + 27(0.9) lithium + 30(6) sugar
+[30 Bicaridine: [Inaprovaline(3): 5(1) oxygen + 5(1) sugar + 5(1) carbon] + 15(3) carbon] + 27(0.9) lithium + 30(6) sugar
 
 [color=#283332]██ LACERINOL | SLASH | 12u | ▬ heat 335 K ▬[/color]
-[Bicaridine: [Inaprovaline(3): 5(1) oxygen + 5(1) sugar + 5(1) carbon] + 15(3) carbon] + [Benzene: 30(6) carbon + 30(6) hydrogen]
+[30 Bicaridine(3): [Inaprovaline(3): 5(1) oxygen + 5(1) sugar + 5(1) carbon] + 15(3) carbon] + [Benzene: 30(6) carbon + 30(6) hydrogen]
 
 [color=#b9bf93]██ PUNCTURASE | PIERCING | 11u | ▬ heat 325 K ▬[/color]
-[Bicaridine: [Inaprovaline: 5(1) oxygen + 5(1) sugar + 5(1) carbon] + 15(3) carbon] + [Hydroxide: 15(3) hydrogen + 15(3) oxygen]
+[30 Bicaridine(3): [Inaprovaline: 5(1) oxygen + 5(1) sugar + 5(1) carbon] + 15(3) carbon] + [Hydroxide: 15(3) hydrogen + 15(3) oxygen]
 
 [head=3]ADVANCED BURN MEDICATION[/head]  [color=#e5e5e5]██████████████[/color]
 
 [color=#ff7db5]██ LEPORAZINE | COLD | ▬ heat 310 K ▬[/color]
-[Fersilicite: 20(1) silicon + 20(1) iron] + 40(2) copper + 1 CAT plasma
+[40 Fersilicite(1): 20(1) silicon + 20(1) iron] + 40(2) copper + 1 CAT plasma
 
 [color=#aa4308]██ PYRAZINE | HEAT | 15u | ▬ heat 540 K ▬[/color]
 =1 Carbon + 1 Dermaline + 1 Leporazine
@@ -59,7 +59,7 @@ C: [10 silicon + 10 iron + 20 copper], pour all into A
 Remove 10 leporazine and 1 plasma from A then Mix A and B and heat.
 
 [color=#8147ff]██ INSUZINE | SHOCK | 12u | ▬ heat 433 K ▬[/color]
-[Kelotane: 10(1) silicon + 10(1) carbon] + [Leporazine: [Fersilicite: 5(1) silicon + 5(1) iron] + 10(2) copper + 1 CAT plasma] + 20(1) silicon
+[20(1) Kelotane: 10(1) silicon + 10(1) carbon] + [20(1) Leporazine: [10(2) Fersilicite: 5(1) silicon + 5(1) iron] + 10(2) copper + 1 CAT plasma] + 20(1) silicon
 
 [color=#aa4308]██ SIGYNATE | CAUSTIC | 15u | ▬ heat 370 K ▬[/color]
 =1 Kelotane + 1 Sodium Carbonate + 1 Sodium Hydroxide + 1 Sugar + 1 Water
@@ -86,9 +86,9 @@ D: 20 carbon + 20 ethanol and heat
 Add 20 of each beaker into D, heat until mixed, pour into jug, refill D and repeat.
 
 [color=#c8ff75]██ PHALANXIMINE | GENETIC | Deals RADIATION[/color]
-[Hyronalin: [Potassium Iodide: 10(1) iodine + 10(1) potassium] + 20(2) radium] + [Unstable Mutagen: 10(1) radium + 10(1) chlorine + 10(1) phosphorus] + 30(1) ethanol
+[30(1) Hyronalin: [Potassium Iodide: 10(1) iodine + 10(1) potassium] + 20(2) radium] + [30(1) Unstable Mutagen: 10(1) radium + 10(1) chlorine + 10(1) phosphorus] + 30(1) ethanol
 
-[color=#404040]██ OCULINE | EYE DAMAGE | USE 5u | ▬ heat 370 K ▬[/color]
+[color=#404040]██ OCULINE | EYE DMG | USE 5u | ▬ heat 370 K ▬[/color]
 =1 Blood + 2 Hydroxide + 1 Table Salt
 A: [10(2) hydrogen + 10(2) oxygen], heat
 B: [5(1) chlorine + 5(1) sodium], heat
