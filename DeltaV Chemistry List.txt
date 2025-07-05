@@ -94,19 +94,19 @@ A: [10(2) hydrogen + 10(2) oxygen], heat
 B: [5(1) chlorine + 5(1) sodium], heat
 C: 10(2) blood + 20(4) hydroxide + 10(2) table salt
 
-[head=3]OTHER[/head]  [color=#e5e5e5]███████████████████████████████████[/color]
-
-[color=#00FF5F]██ UNSTABLE MUTAGEN[/color]
-30(1) chlorine + 30(1) phosphorous + 30(1) radium
-
-[color=#A1000B]██ DIETHYLAMINE[/color]
-[30 hydrogen + 10 nitrogen] + 40 ethanol
-
 [color=#86CAF7]██ AMBUZOL | ZOMBIE | USE 10u[/color]
-[3 hydrogen + 1 nitrogen] + [1 nitrogen + 1 potassium + 1 silicon] + 2 zombie blood
+[Ammonia: 3 hydrogen + 1 nitrogen] + [Dylovene: 1 nitrogen + 1 potassium + 1 silicon] + 2 zombie blood
 
 [color=#1274B5]██ AMBUZOL PLUS | ZOMBIE | USE 5u[/color]
 5 Ambuzol + 5 Omnizine
+
+[head=3]OTHER[/head]  [color=#e5e5e5]███████████████████████████████████[/color]
+
+[color=#00FF5F]██ UNSTABLE MUTAGEN | BOTANY[/color]
+30 chlorine + 30 phosphorous + 30 radium
+
+[color=#A1000B]██ DIETHYLAMINE | BOTANY[/color]
+[40 Ammonia: 30 hydrogen + 10 nitrogen] + 40 ethanol
 
 [color=#000067]██ CHLORAL HYDRATE | SLEEP[/color]
 60(3) chlorine + 20(1) ethanol + 20(1) water
@@ -153,7 +153,7 @@ C: 80u coffee
 Combine 30u from each. Repeat until used.
 
 [color=#77B58E]██ MINDBREAKER T. | PSIONICS | USE 20U | ▬ heat 370 K ▬[/color]
-30(1) [Dylovene: 10(1) silicon + 10(1) nitrogen + 10(1) potassium] + 30(3) Hydrogen + 30(3) Silicon
+[30(1) Dylovene: 10(1) silicon + 10(1) nitrogen + 10(1) potassium] + 30(3) Hydrogen + 30(3) Silicon
 
 [color=#AAAAAA]██ PAX | PACIFICATION[/color]
 30(1) Mindbreaker Toxin + 30(1) [Synaptizine: 10(1) lithium + 10(1) sugar + 10(1) water] + 30(1) Water
