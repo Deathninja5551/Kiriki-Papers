@@ -4,56 +4,56 @@
 Based off of Tom's Guide to Chemistry
 [color=#aaaaaa]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 ██ CHEMICAL NAME | USAGE | OVERDOSE/USEAGE AMOUNT | CRYO/PYROGENIC TEMPERATURE | HEAT TEMPERATURE
-This document contains recipes to create full L. beakers, as well as proportions that you can scale to create as much as you want to. Proportions will be in parenthesis next to regular amounts (They may not be 100% accurate, sorry!). If there are no parenthesis, all parts are equal. Recipes are contained inside brackets []. Use this information to substitute existing ingredients to avoid waste. Existing ingredient amount to substitute are shown in parenthesis, next to the name, shown in regular amounts. If there is no parenthesis, only one of the chemical is required. "CAT" means a chemical is a catalyst, and is not consumed. Line Break indicates a step by step process, in which letters indicate seperate beakers, and the existing ingredient amount on top.
+This document contains recipes to create full L. beakers, as well as proportions that you can scale to create as much as you want to. Proportions will be in parenthesis next to regular amounts. If there are no parenthesis, all parts are equal. Recipes are contained inside brackets []. Use this information to substitute existing ingredients to avoid waste. Existing ingredient amount to substitute are shown in parenthesis, next to the name, shown in regular amounts. If there is no parenthesis, only one of the chemical is required. "CAT" means a chemical is a catalyst, and is not consumed. Line Break indicates a step by step process, in which letters indicate seperate beakers, and the existing ingredient amount on top.
 
 [head=3]BASIC MEDICINE[/head]  [color=#e5e5e5]███████████████████████████[/color]
 
 [color=#ffaa00]██ BICARIDINE | BRUTE | 15u[/color]
-[45 Inaprovaline(3): 15(1) oxygen + 15(1) sugar + 15(1) carbon] + 45(3) carbon
+[45 Inaprovaline: 15 oxygen + 15 sugar + 15 carbon] + 45 carbon
 
 [color=#215263]██ DERMALINE | BURNS | 10u[/color]
-[30(2) Kelotane: 15(1) silicon + 15(1) carbon] + 30(2) oxygen + 30(2) phosphorus
+[30 Kelotane: 15 silicon + 15 carbon] + 30 oxygen + 30 phosphorus
 
 [color=#3a1d8a]██ DYLOVENE | POISON | 20u[/color]
-30(1) silicon + 30(1) nitrogen + 30(1) potassium
+30 silicon + 30 nitrogen + 30 potassium
 
 [color=#4da0bd]██ DEXALIN PLUS | AIRLOSS | 25u[/color]
-[30(2) Dexalin: CAT 1 plasma + 20 oxygen] + 30(3) carbon + 30(3) iron
+[30 Dexalin: CAT 1 plasma + 20(4) oxygen] + 30 carbon + 30 iron
 
 [color=#0064C8]██ SALINE | BLOODLOSS | ▬ heat 370 K ▬[/color]
-[20(2) Table Salt: 10(1) chlorine + 10(1) sodium] + 80(8) water
+[20(1) Table Salt: 10 chlorine + 10 sodium] + 80(4) water
 
 [color=#bd5902]██ ARITHRAZINE | RADIATION | Deals BRUTE[/color]
-[30(1) Hyronalin: [15(1) Dylovene: 5(1) silicon + 5(1) nitrogen + 5(1) potassium] + 15(1) radium] + 30(1) hydrogen
+[30 Hyronalin: [15 Dylovene: 5 silicon + 5 nitrogen + 5 potassium] + 15 radium] + 30 hydrogen
 
 [color=#f4dab8]██ SIDERLAC | CAUSTIC[/color]
-50(1) aloe + 50(1) stellibinin
+50 aloe + 50 stellibinin
 
 [head=3]ADVANCED BRUTE MEDICATION[/head]  [color=#e5e5e5]██████████████[/color]
 
 [color=#ff3636]██ BRUIZINE | BLUNT | 10u[/color]
-[30(3) Bicaridine: [Inaprovaline(3): 5(1) oxygen + 5(1) sugar + 5(1) carbon] + 15(3) carbon] + 30(1) lithium + 30(1) sugar
+[30 Bicaridine: [15 Inaprovaline: 5 oxygen + 5 sugar + 5 carbon] + 15 carbon] + 30 lithium + 30 sugar
 
 [color=#283332]██ LACERINOL | SLASH | 12u | ▬ heat 335 K ▬[/color]
-[30(3) Bicaridine: [Inaprovaline(3): 5(1) oxygen + 5(1) sugar + 5(1) carbon] + 15(3) carbon] + [Benzene: 30(6) carbon + 30(6) hydrogen]
+[30 Bicaridine: [15 Inaprovaline: 5 oxygen + 5 sugar + 5 carbon] + 15 carbon] + [30 Benzene: 30(2) carbon + 30(2) hydrogen]
 
 [color=#b9bf93]██ PUNCTURASE | PIERCING | 11u | ▬ heat 325 K ▬[/color]
-[30(3) Bicaridine: [Inaprovaline: 5(1) oxygen + 5(1) sugar + 5(1) carbon] + 15(3) carbon] + [Hydroxide: 15(3) hydrogen + 15(3) oxygen]
+[30 Bicaridine: [15 Inaprovaline: 5 oxygen + 5 sugar + 5 carbon] + 15 carbon] + [30 Hydroxide: 15 hydrogen + 15 oxygen]
 
 [head=3]ADVANCED BURN MEDICATION[/head]  [color=#e5e5e5]██████████████[/color]
 
 [color=#ff7db5]██ LEPORAZINE | COLD | ▬ heat 310 K ▬[/color]
-[40 Fersilicite(1): 20(1) silicon + 20(1) iron] + 40(2) copper + 1 CAT plasma
+[40 Fersilicite: 20 silicon + 20 iron] + 40 copper + 1 CAT plasma
 
 [color=#aa4308]██ PYRAZINE | HEAT | 15u | ▬ heat 540 K ▬[/color]
 =1 Carbon + 1 Dermaline + 1 Leporazine
 A: put 1 plasma and heat (leave on oven)
 B: 30 carbon + [5 carbon + 10 phosphorus + 10 oxygen + 5 silicon]
 C: [10 silicon + 10 iron + 20 copper], pour all into A
-Remove 10 leporazine and 1 plasma from A then Mix A and B and heat.
+Remove 10 leporazine and 1 plasma from A then Mix B into A and heat.
 
 [color=#8147ff]██ INSUZINE | SHOCK | 12u | ▬ heat 433 K ▬[/color]
-[20(1) Kelotane: 10(1) silicon + 10(1) carbon] + [20(1) Leporazine: [10(2) Fersilicite: 5(1) silicon + 5(1) iron] + 10(2) copper + 1 CAT plasma] + 20(1) silicon
+[20 Kelotane: 10 silicon + 10 carbon] + [20 Leporazine: [10 Fersilicite: 5 silicon + 5 iron] + 10 copper + 1 CAT plasma] + 20 silicon
 
 [color=#e0a5b9]██ SIGYNATE | CAUSTIC | 15u | ▬ heat 370 K ▬[/color]
 =1 Kelotane + 1 Sodium Carbonate + 1 Sodium Hydroxide + 1 Sugar + 1 Water
@@ -67,18 +67,17 @@ D: 20u of sugar, water, A, B, C, then heat.
 [color=#64FFE6]██ DIPHENHYDRAMINE | POISON | ▬ heat 378 K ▬[/color]
 =1 Diethylamine, 1 Oil, 1 Table Salt, 1 carbon, 1 ethanol
 A: [[30 hydrogen + 10 nitrogen] + 40 ethanol]
-B: [27 carbon + 27 hydrogen + 27 welding fuel], remove 1
+B: [27 carbon + 27 hydrogen + 27 welding fuel] [bold]- 1[/bold]
 C: [40 chlorine + 40 sodium] and heat
-D: 20 carbon + 20 ethanol and heat
-Add 20 of each beaker into D, heat until mixed, pour into jug, refill D and repeat.
+D: 20u of carbon, ethanol, A, B, C, then heat.
 
 [color=#c8ff75]██ PHALANXIMINE | GENETIC | Deals RADIATION[/color]
-[30(1) Hyronalin: [15(1) Dylovene: 5(1) silicon + 5(1) nitrogen + 5(1) potassium] + 15(1) radium] + [30(1) Unstable Mutagen: 10(1) radium + 10(1) chlorine + 10(1) phosphorus] + 30(1) ethanol
+[30 Hyronalin: [15 Dylovene: 5 silicon + 5 nitrogen + 5 potassium] + 15 radium] + [30 Unstable Mutagen: 10 radium + 10 chlorine + 10 phosphorus] + 30 ethanol
 
 [color=#404040]██ OCULINE | EYE DMG | USE 5u | ▬ heat 370 K ▬[/color]
 =1 Blood + 2 Hydroxide + 1 Table Salt
-A: [10(2) hydrogen + 10(2) oxygen], heat
-B: [5(1) chlorine + 5(1) sodium], heat
+A: [10 hydrogen + 10 oxygen], heat
+B: [5 chlorine + 5 sodium], heat
 C: 10(2) blood + 20(4) hydroxide + 10(2) table salt
 
 [color=#86CAF7]██ AMBUZOL | ZOMBIE | USE 10u[/color]
@@ -90,9 +89,9 @@ C: 10(2) blood + 20(4) hydroxide + 10(2) table salt
 [head=3]OTHER[/head]  [color=#e5e5e5]███████████████████████████████████[/color]
 
 [color=#382F6B]██ NEUROZENIUM | DEPRESSION | ▬ heat 370 K ▬[/color]
-A: [Acetone: [Oil: [4(1) carbon + 4(1) hydrogen + 4(1) welding fuel]] + 16(4) oxygen + 16(4) welding fuel] + 24(0.5) copper + 24(0.5) mercury
-B: 1 CAT [Bleach: 1 [Sodium Hydroxide: [1 hydrogen + 1 oxygen] + 1 sodium] 2 [Space Cleaner: [Ammonia: 6 Hydrogen + 2 Nitrogen] + 1 water ] 2 [Table Salt: 2 chlorine + 2 sodium]]
-Remove ammonia from B and heat. Remove leftover chlorine and sodium. Pour into A.
+A: [24 Acetone: [12 Oil: [4 carbon + 4 hydrogen + 4 welding fuel]] + 12 oxygen + 12 welding fuel] + 12(0.5) copper + 12(0.5) mercury
+B: [1 CAT Bleach: [Sodium Hydroxide: [1 hydrogen + 1 oxygen] + 2 sodium] + [2 Space Cleaner: [Ammonia: 3 Hydrogen + 1 Nitrogen] + 1 water] [2 Table Salt: 1 chlorine + 1 sodium]]
+Add bleach from B to A. Purify.
 
 [color=#634E3A]██ CALMAFLUXINE | ANXIETY | ▬ heat 325 K ▬[/color]
 =1 Inaprovaline + 1 Phenol + 1 Potassium
@@ -120,9 +119,9 @@ Combine 30u from each. Repeat until used.
 30 carbon + [30 Dylovene: 10 nitrogen + 10 potassium + 10 silicon] + 30 oxygen
 
 [color=#B50EE8]██ COGNIZINE | SENTIENCE | USE 5u[/color]
-[Acetone: [Oil: [1 carbon + 1 hydrogen + 1 welding fuel]] + 4 oxygen + 4 welding fuel] + [Siderlac: 6(1) aloe + 6(1) stellibinin] + 12(1) carpotoxin
+[12 Acetone: [6 Oil: [2 carbon + 2 hydrogen + 2 welding fuel]] + 6 oxygen + 6 welding fuel] + [12 Siderlac: 6 aloe + 6 stellibinin] + 12 carpotoxin
 
-[color=#77B58E]██ MINDBREAKER T. | PSIONICS | USE 20U | ▬ heat 370 K ▬[/color]
+[color=#77B58E]██ MINDBREAKER T. | ANTI-PSIONIC | USE 20u | ▬ heat 370 K ▬[/color]
 [30(1) Dylovene: 10(1) silicon + 10(1) nitrogen + 10(1) potassium] + 30(3) Hydrogen + 30(3) Silicon
 
 [color=#AAAAAA]██ PAX | PACIFICATION[/color]
@@ -131,17 +130,17 @@ Combine 30u from each. Repeat until used.
 [color=#000067]██ CHLORAL HYDRATE | SLEEP[/color]
 60(3) chlorine + 20(1) ethanol + 20(1) water
 
-[color=#00FF5F]██ UNSTABLE MUTAGEN | BOTANY[/color]
+[color=#00FF5F]██ UNSTABLE MUTAGEN[/color]
 30 chlorine + 30 phosphorous + 30 radium
 
-[color=#A1000B]██ DIETHYLAMINE | BOTANY[/color]
+[color=#A1000B]██ DIETHYLAMINE[/color]
 [40 Ammonia: 30 hydrogen + 10 nitrogen] + 40 ethanol
 
 [color=#664330]██ EZ NUTRIENT[/color]
 30 nitrogen + 30 phosphorus + 30 potassium
 
 [color=#3e901c]██ ROBUST HARVEST[/color]
-[30(1) sulfuric acid: 10(1) hydrogen + 10(1) sulfur + 20(2) oxygen] + 30(1) EZ nutrient
+[30 sulfuric acid: 10 hydrogen + 10 sulfur + 20 oxygen] + 30 EZ nutrient
 
 [head=3]CRYOGENIC CHEMICALS[/head]  [color=#e5e5e5]█████████████████████[/color]
 
@@ -151,7 +150,7 @@ Combine 30u from each. Repeat until used.
 remove plasma and add 30 oxygen
 
 [color=#880077]██ TRAUMOXADONE | BRUTE | 213 K[/color]
-90(1) cryoxadone + [90(1) salicylic acid: [20(1) phenol: [10(1) hydroxide: 5(1) oxygen + 5(1) hydrogen] + [10(1) benzene: 10(1) hydrogen + 10(1) carbon]] + [sulfuric acid: 14(2) oxygen + 7(1) sulfur + 7(1) hydrogen] [bold]- 1[/bold] + 20(1) sodium + 20(1) carbon + 20(1) oxygen] + [90(1) lipozine: [30 table salt: 15 chlorine + 15 sodium] + 30 ethanol + 30 radium]
+90 cryoxadone + [90 salicylic acid: [20 phenol: [10 hydroxide: 5 oxygen + 5 hydrogen] + [10 benzene: 10(2) hydrogen + 10(2) carbon]] + [sulfuric acid: 14(2) oxygen + 7(1) sulfur + 7(1) hydrogen] [bold]- 1[/bold] + 20 sodium + 20 carbon + 20 oxygen] + [90 lipozine: [30 table salt: 15 chlorine + 15 sodium] + 30 ethanol + 30 radium]
 
 [color=#89F77F]██ ALOXADONE | BURNS | 213 K[/color]
 2 aloe + 2 sigynate + 1 cryoxadone
@@ -166,4 +165,4 @@ remove plasma and add 30 oxygen
 cryoxadone + phalanximine
 
 [color=#B5E36D]██ OPPOROZIDONE | ROT | 150 K | ▬ heat 400 K ▬[/color]
-1 acetone [oil [[carbon + hydrogen + welding fuel] + welding fuel + oxygen] + 1 doxarubixadone + 2 plasma
+6(1) acetone [3 oil [[carbon + hydrogen + welding fuel] + 3 welding fuel + 3 oxygen] + 1 doxarubixadone + 2 plasma
