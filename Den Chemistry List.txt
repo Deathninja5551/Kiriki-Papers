@@ -159,7 +159,7 @@ remove plasma and add 30 oxygen
 5 stellibinin, 3 cryoxadone, 2 arithrazine
 
 [color=#86a5bd]██ NECROSOL | HEALS CORPSES | 213 K | ▬ heat 370 K ▬[/color]
-10 ammonia + 3 blood + 2 doxarubixadone + 2 cryoxadone
+1 omnizine + 3 blood + 2 doxarubixadone + 2 cryoxadone
 
 [color=#32CD32]██ DOXARUBIXADONE | GENETIC | 213 K[/color]
 cryoxadone + phalanximine
