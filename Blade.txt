@@ -1,0 +1,18 @@
+# Blade Rules
+[color=#aaaaaa]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[head=1]Blade[/head]
+Based off of The Legend of Heroes: Trails of Cold Steel
+[color=#aaaaaa]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+Blade is a game where the goal is to have a total card value higher than your opponent by the end of the game. One game uses only ten cards players draw from their respective deck.
+
+To create a deck, every player should take 2 of every numbered card (faces unimportant). And split 2 of every effect card and place them in a seperate deck from your numbered cards.
+
+To begin the game, both players draw one card from their numbered deck and place it on the field. A player draws 7 numbered cards, and 3 effect cards (how you distribute this is up to you,) players should have 10 cards in their hand. 
+A player has to make sure their card value surpasses the opponent's every turn. A player loses when they cannot surpass the opponent's card value or they run out of numbered cards. Effect cards can't be used when the player has no numbered cards left in their hand.
+When both players have an equal value, the field is cleared and players place a new card from their deck.
+
+1-9 act as your numbered cards, bolt/mirror/blast/force are your effect cards.
+Kings are your bolt cards. Used to remove the last card placed by your opponents.
+Queens are your mirror cards. It switches position of latest card placed on the field.
+Jokers are your blast cards. it allows the player to randomly remove one card from opponent's hand. 
+Jacks are your force cards. This card doubles your latest total value.
